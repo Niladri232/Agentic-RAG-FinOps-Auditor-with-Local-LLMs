@@ -1,0 +1,5 @@
+GLOBAL CORPORATE EXPENSE AND TRAVEL COMPLIANCE POLICY
+1. Accommodation Cap: Individual employee hotel room bookings must not exceed $300 per night. Any booking over $300 requires CFO approval.
+2. Weekend Software Charges: Cloud services, infrastructure, or software licensing transactions processed on Saturdays or Sundays are strictly prohibited unless flagged with emergency devops metadata.
+3. Unapproved Vendors: Entertainment expenses from unauthorized gaming vendors, streaming services, or casinos are strictly barred from corporate card reimbursement profiles.
+4. Daily Meal Allowance: The maximum permissible daily food and beverage allowance for an employee on official business travel is capped at $75 total.

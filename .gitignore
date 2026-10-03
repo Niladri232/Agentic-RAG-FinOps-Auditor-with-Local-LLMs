@@ -1,0 +1,18 @@
+# Skip virtual environment during upload
+venv/
+env/
+ENV/
+
+# Skip Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Skip local system files & vector DB cache
+chroma_db/
+vector_store_data/
+*.sqlite3
+.DS_Store
+.vscode/
+.idea/

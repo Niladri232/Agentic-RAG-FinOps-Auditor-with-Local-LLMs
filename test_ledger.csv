@@ -1,0 +1,8 @@
+transaction_id,timestamp,vendor,amount,metadata
+TXN-2001,2026-05-13 14:22:00,AWS Cloud Infrastructure,4250.00,Production Cluster Auto-scale Primary Node
+TXN-2002,2026-05-16 09:15:00,Datadog Monitoring,1800.00,Emergency devops patching for database cluster alert
+TXN-2003,2026-05-17 23:40:00,Figma Enterprise Upgrade,950.00,Routine UI design layout modifications seat addition
+TXN-2004,2026-05-20 11:05:00,Github Enterprise,3100.00,Annual renewals for core engineering teams
+TXN-2005,2026-05-24 16:30:00,OpenAI API Tier-5,5000.00,Critical emergency devops model deployment fallout mitigation
+TXN-2006,2026-05-30 21:10:00,Adobe Creative Cloud,1200.00,Marketing team design asset renewals asset seat upgrade
+TXN-2007,2026-05-31 02:45:00,Slack Technologies,3400.00,Emergency devops workspace messaging migration recovery protocol
